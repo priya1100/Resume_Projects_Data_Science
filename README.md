@@ -57,20 +57,4 @@ Enhanced skills in SQL and Python integration for data analysis; gained proficie
 ### Impact on Society
 Provided actionable insights to local law enforcement agencies, contributing to targeted policing strategies that aim to reduce crime rates and enhance community safety.
 
-## 4. Hotel Booking Demand Visualization with Power BI
 
-### Objective
-Visualize complex hotel booking data to uncover actionable insights, optimize room pricing, and improve guest satisfaction strategies.
-
-### Tools Used
-Power BI, SQL for data querying, Python for data cleaning and manipulation.
-
-### Outcome
-1. Created dynamic and interactive dashboards to track key performance indicators including revenue, booking trends, and customer preferences.
-2. Enabled data-driven decision-making by providing hotel management with insights into guest demographics, booking behaviors, and peak demand periods.
-
-### Personal Learning
-Enhanced data visualization skills with complex Power BI dashboards; improved SQL querying and Python data manipulation for effective data preprocessing and optimization.
-
-### Impact on Society
-Supported enhanced business strategies in hospitality management, improving guest craftsmanship, and real-time data monitoring tool to stakeholders, fostering agile market response.
