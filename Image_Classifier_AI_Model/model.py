@@ -65,3 +65,7 @@ index = np.argmax(prediction)
 print(f"Prediction is {class_names[index]}")
 
 plt.show()
+
+loss, accuracy = model.evaluate(testing_images, testing_labels)
+print(f"Loss: {loss}")
+print(f"Accuracy: {accuracy}")
